@@ -21,12 +21,45 @@ Agile
 advantage - allows continous flow of feedback 
 disadvantage - costly and timeless
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+- agile is better for projects requires more changes such mobile apps
+- waterfall is better for projects with well defined requirements such banking software
+  
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+- conducting regular code reviews
+- following coding standards
+- using continuous intergration
+- debugging
+  
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+- scope it helps in setting realistic goals and planning resources efficient
+- a work breakdown structure it divides the project into smaller tasks and assign it responsibilities
+  
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+detailed project 
+- helps tracking the progress
+- identify bottleneck
+- ensuring team compatibility
+  Gantt chart
+  - provide visual time line
+  - helps the team to understand dependencies and deadline
+    
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+- ensures the team focused on solving the issues leading to better solution
+- reduce wasted effort
+- improve user satisfaction
+  
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+- gathered through industrial report
+- competitor analysis
+- customer survey 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+- stay competitive
+- identify the customer needs
+- adapt to technological advancement 
